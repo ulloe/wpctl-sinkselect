@@ -1,0 +1,9 @@
+object wpctl: Twpctl
+  Left = 248
+  Height = 240
+  Top = 145
+  Width = 320
+  Caption = 'wpctlu'
+  OnCreate = FormCreate
+  LCLVersion = '2.2.0.4'
+end
